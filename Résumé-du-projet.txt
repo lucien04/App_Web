@@ -1,0 +1,11 @@
+
+
+
+ Mon projet "LOCTEL" consiste à creer une app permettant la location
+ de telephones , pourquoi parce que l'on remarque que tout le monde n'as pas forcement 
+cette possibilité de s'offrir des telephones(avec de telles sommes) d'ou la conception d'une App de location
+ de telephone et payement (par la suite , selon le choix du client.)
+Elle permet notamment de faire face à l'augmentation des prix à l'achat des modèles haut de gamme. Grâce à la location, les consommateurs peuvent modifier,interagir avec l'app, changer régulièrement d'appareil 
+sans avoir à dépenser ponctuellement une petite fortune.
+À la fin du contrat de location , les utilisateurs peuvent résilier leur abonnement de location. En effet, le téléphone en aucun cas ne les appartient pas, il s'agit d'un simple prêt. Dans ce cas, ils seront dans l'obligation 
+de restituer le smartphone que  nous les avons  prêté.
