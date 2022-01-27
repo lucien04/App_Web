@@ -51,7 +51,7 @@ echo "<p>Total <b> ".$nbr."</b> telephones...</p>";
         <th>Marque</th>
         <th>Prix de loc</th>
         <th>photo</th>
-        <th>Archiver</th>
+        <th>Supprimer</th>
         <th>Modifier</th>
     </tr>
   
